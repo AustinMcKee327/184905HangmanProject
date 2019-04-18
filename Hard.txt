@@ -1,0 +1,10 @@
+﻿orange
+common
+pencils
+science
+octopus
+cactus
+toothbrush
+strings
+window
+television

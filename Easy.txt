@@ -1,0 +1,10 @@
+﻿sun
+ice
+hat
+lip
+cat
+dog
+day
+car
+bat
+log
